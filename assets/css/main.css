@@ -1405,7 +1405,7 @@
 	input[type="button"],
 	button,
 	.button {
-		background-color: violet;
+		background-color: aqua;
 		color: #828282 !important;
 		box-shadow: inset 0 0 0 2px #e6e6e6;
 	}
